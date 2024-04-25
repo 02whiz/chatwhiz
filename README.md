@@ -3,14 +3,6 @@
 ## Realtime Chat Engine
 An open-source real-time chat engine project with a easy to use ui to manage and integrate chat features to your server.
 
-### frame works/library's 
-#### server side
- 1.node.js
-#### frontend/ui
- 1.html
- 2.js
- 3.css
- 
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
