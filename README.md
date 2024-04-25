@@ -44,4 +44,4 @@ Update the documentation if necessary.
 Submit a pull request to the main branch.
 
 ## licence
-This project is licensed under the gnu License. See LICENSE for details.
+This project is licensed under the gnu License. See [LICENS](#LICENS) for details.
