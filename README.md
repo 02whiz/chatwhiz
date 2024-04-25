@@ -44,4 +44,5 @@ Update the documentation if necessary.
 Submit a pull request to the main branch.
 
 ## licence
-This project is licensed under the gnu License. See [LICENS](#LICENS) for details.
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
