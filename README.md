@@ -3,7 +3,7 @@
 ## Realtime Chat Engine
 An open-source real-time chat engine project with a easy to use ui to manage and integrate chat features to your server.
 
-## Table of Contents
+## Table of Contents(test)
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
@@ -26,7 +26,7 @@ To set up the Realtime Chat Engine for development:
 
 1. Clone the repository using Git:
    ```bash
-   git clone https://github.com/binary-whiz/chatywiz.git
+      git clone https://github.com/binary-whiz/chatywiz.git
 
 ## usage
 Once the Realtime Chat Engine is installed on your server , you can:
@@ -46,3 +46,5 @@ Submit a pull request to the main branch.
 ## licence
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+[x](https://x.com/binarywhiz)
