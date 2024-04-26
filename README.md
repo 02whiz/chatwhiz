@@ -26,7 +26,7 @@ To set up the Realtime Chat Engine for development:
 
 1. Clone the repository using Git:
    ```bash
-      git clone https://github.com/binary-whiz/chatywiz.git
+      git clone https://github.com/binary-whiz/chatwhiz.git
 
 ## usage
 Once the Realtime Chat Engine is installed on your server , you can:
