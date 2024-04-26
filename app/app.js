@@ -1,6 +1,5 @@
-const socket = new Websocket('ws://localhost:3000')
-
-function sendMassage(e) {
+const socket = new WebSocket('ws://localhost:3000')
+function sendMessage(e) {
   e.preventDefault()
   const input = document.querySelector('input')
   if (input.value) {
@@ -15,11 +14,11 @@ function sendMassage(e) {
 
 document.querySelector('form')
 
-.addEventListener('submit', sentMassage)
+.addEventListener('submit', sentMessage)
 
 //massge listerning
-socket.addEventListener("massge",({ data }) => {
-  const li = document.creatElement('li')
+socket.addEventListener("message",({ data }) => {
+  const li = document.createElement('li')
   li.textContent = data 
   document.querySelector('ul').appendChild(li)
 
