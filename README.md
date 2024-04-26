@@ -1,4 +1,4 @@
-# chatwhiz 
+# chatwhiz (incomplete)
 
 ## Realtime Chat Engine
 An open-source real-time chat engine project with a easy to use ui to manage and integrate chat features to your server.
