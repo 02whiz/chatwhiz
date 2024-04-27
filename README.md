@@ -45,6 +45,5 @@ Submit a pull request to the main branch.
 
 ## licence
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GPL LICENS](https://opensource.org/licenses/GPL) - see the [LICENSE](LICENSE) file for details.
 
-[x](https://x.com/binarywhiz)
